@@ -24,7 +24,7 @@ I am a researcher in the field of machine learning and artificial intelligence. 
 
 
 
-I welcome self-motivated visiting researchers and students interested in AI/ML research for collaborations. If you'd like to explore potential opportunities, please email me at:
+I welcome self-motivated researchers and students interested in AI/ML research for collaborations. If you'd like to explore potential opportunities, please email me at:
 - **Oxford students**: jialin.yu@eng.ox.ac.uk
 - **All other inquiries**: yu.jialin@outlook.com
 
