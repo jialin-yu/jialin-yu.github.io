@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I will be attending **[NeurIPS 2023](https://neurips.cc/Conferences/2023)** in New Orleans, Louisiana, USA from 11th to 16th December! If you are also attending, please feel free to reach out to me.
+I am attending **[NeurIPS 2023](https://neurips.cc/Conferences/2023)** in New Orleans, Louisiana, USA from 11th to 16th December.

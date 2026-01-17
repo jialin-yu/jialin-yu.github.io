@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I am excited to share that our paper "**[Structured Learning of Compositional Sequential Interventions](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d10c7e24c96db4b222688efd11b02940-Abstract-Conference.html)**" has been accepted at **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** (acceptance rate: 25.8%)!
+Our paper "**[Structured Learning of Compositional Sequential Interventions](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d10c7e24c96db4b222688efd11b02940-Abstract-Conference.html)**" has been accepted at **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** (acceptance rate: 25.8%).

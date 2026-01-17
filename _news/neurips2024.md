@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I will be attending **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** in Vancouver, Canada from 10th to 15th December! If you are also attending, please feel free to reach out to me.
+I am attending **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** in Vancouver, Canada from 10th to 15th December.
