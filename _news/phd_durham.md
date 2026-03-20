@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I have successfully defended my PhD thesis, titled "**[Natural Language Processing with Deep Latent Variable Models: Methods and Applications](https://etheses.dur.ac.uk/14869/)**" at **[Durham University](https://www.dur.ac.uk/)**.
+I have successfully defended my **[PhD thesis](https://etheses.dur.ac.uk/14869/)** at **[Durham University](https://www.dur.ac.uk/)**.
