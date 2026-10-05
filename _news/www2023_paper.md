@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-One paper has been accepted to **[WWW 2023](https://archives.iw3c2.org/www2023/)** (acceptance rate: 20.5%).
+One paper was accepted to **[WWW 2023](https://archives.iw3c2.org/www2023/)** (acceptance rate: 20.5%).

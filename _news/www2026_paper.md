@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-One paper has been accepted to **[WWW 2026](https://www2026.thewebconf.org/)** (acceptance rate: 20.1%).
+One paper was accepted to **[WWW 2026](https://www2026.thewebconf.org/)** (acceptance rate: 20.1%).

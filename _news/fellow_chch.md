@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I have started as a Junior Research Fellow (Non-stipendiary) in **[Computer Science](https://www.chch.ox.ac.uk/people/dr-jialin-yu)** at **[Christ Church](https://www.chch.ox.ac.uk/)**.
+I joined **[Christ Church](https://www.chch.ox.ac.uk/)** as a Junior Research Fellow (Non-stipendiary) in **[Computer Science](https://www.chch.ox.ac.uk/people/dr-jialin-yu)**.

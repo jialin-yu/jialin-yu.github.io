@@ -6,5 +6,4 @@ related_posts: false
 ---
 
 
-I have started as a Lecturer in Computer Science at **[St Catherine's College](https://www.stcatz.ox.ac.uk/)**.
-
+I joined **[St Catherine's College](https://www.stcatz.ox.ac.uk/)** as a Stipendiary Lecturer in Computer Science.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to **[CoRL 2026](https://www.corl.org/)** (acceptance rate: 33%).
+One paper was accepted to **[CoRL 2026](https://www.corl.org/)** (acceptance rate: 33%).

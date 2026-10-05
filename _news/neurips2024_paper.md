@@ -7,4 +7,4 @@ related_posts: false
 
 
 
-One paper has been accepted at **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** (acceptance rate: 25.8%).
+One paper was accepted to **[NeurIPS 2024](https://neurips.cc/Conferences/2024)** (acceptance rate: 25.8%).

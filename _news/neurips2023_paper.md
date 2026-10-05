@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-One paper has been accepted at **[NeurIPS 2023](https://neurips.cc/Conferences/2023)** (acceptance rate: 26.1%).
+One paper was accepted to **[NeurIPS 2023](https://neurips.cc/Conferences/2023)** (acceptance rate: 26.1%).

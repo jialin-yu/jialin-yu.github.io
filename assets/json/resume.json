@@ -2,33 +2,68 @@
   "basics": {
     "name": "Dr. Jialin Yu",
     "image": "",
+    "email": "yu.jialin@outlook.com",
     "research interest": "machine learning, generalisation, trustworthiness, and robustness",
     "location": {
-      "address": "Department of Statistical Science, University College London",
-      "postalCode": "WC1E 6BT",
-      "city": "London",
+      "address": "Wessex House, 9.16, University of Bath",
+      "postalCode": "BA2 7AY",
+      "city": "Bath",
       "countryCode": "United Kingdom"
     }
   },
-  "education": [
+  "work": [
     {
-      "institution": "University of Oxford",
+      "name": "University of Bath",
+      "location": "Bath, UK",
+      "url": "https://www.bath.ac.uk/",
+      "position": "Assistant Professor",
+      "summary": "Department of Computer Science",
+      "startDate": "2026-10",
+      "endDate": ""
+    },
+    {
+      "name": "University of Oxford",
       "location": "Oxford, UK",
       "url": "https://www.ox.ac.uk/",
-      "area": " Engineering Science",
-      "studyType": "Postdoctoral Researcher",
-      "startDate": "2025-04",
-      "endDate": "now"
+      "position": "Visiting Fellow",
+      "summary": "Torr Vision Group",
+      "startDate": "2026-10",
+      "endDate": ""
     },
     {
-      "institution": "University College London",
+      "name": "St Catherine's College, University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.stcatz.ox.ac.uk/",
+      "position": "Stipendiary Lecturer in Computer Science",
+      "startDate": "2025-10",
+      "endDate": ""
+    },
+    {
+      "name": "Christ Church, University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.chch.ox.ac.uk/",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2025-10",
+      "endDate": "2026-10"
+    },
+    {
+      "name": "University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.ox.ac.uk/",
+      "position": "Research Associate in Machine Learning",
+      "startDate": "2025-04",
+      "endDate": "2026-10"
+    },
+    {
+      "name": "University College London",
       "location": "London, UK",
       "url": "https://www.ucl.ac.uk/",
-      "area": " Statistical Science",
-      "studyType": "Postdoctoral Researcher",
+      "position": "Research Associate in Machine Learning",
       "startDate": "2023-02",
-      "endDate": "2025-03"
-    },
+      "endDate": "2025-04"
+    }
+  ],
+  "education": [
     {
       "institution": "Durham University",
       "location": "Durham, UK",

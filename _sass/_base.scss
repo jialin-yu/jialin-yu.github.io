@@ -207,6 +207,16 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.profile.about-profile .more-info {
+  font-family: inherit;
+  font-size: 0.875rem;
+  line-height: 1.45;
+
+  p {
+    display: block;
+  }
+}
+
 .profile.float-right {
   margin-left: 1rem;
 }

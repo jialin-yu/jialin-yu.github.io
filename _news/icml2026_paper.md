@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Three papers has been accepted to **[ICML 2026](https://icml.cc/Conferences/2026)** (acceptance rate: 26.6%).
+Three papers were accepted to **[ICML 2026](https://icml.cc/Conferences/2026)** (acceptance rate: 26.6%).

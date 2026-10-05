@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to **[NeurIPS 2026](https://neurips.cc/Conferences/2026)** (acceptance rate: 25.7%).
+One paper was accepted to **[NeurIPS 2026](https://neurips.cc/Conferences/2026)** (acceptance rate: 25.7%).

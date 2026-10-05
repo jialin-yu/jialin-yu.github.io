@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-We are organizing a workshop at **[ICML 2025](https://icml.cc/Conferences/2025)** on **[Scaling Up Intervention Models](https://icml.cc/virtual/2025/workshop/39963)**.
+We organized a workshop on **[Scaling Up Intervention Models](https://icml.cc/virtual/2025/workshop/39963)** at **[ICML 2025](https://icml.cc/Conferences/2025)**.
